@@ -48,3 +48,5 @@ build/
 # Maven
 log/
 target/
+.mvn/
+${project.build.directory}/
